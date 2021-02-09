@@ -129,6 +129,9 @@ a {
 	border-left: 21px solid transparent;
 	border-right: 21px solid transparent;
 }
+.header-menu .menu-options:hover .options {
+	display: block;
+}
 .header-menu .menu-options .options .scroll {
 	overflow: scroll !important;
 	height: 500px;
